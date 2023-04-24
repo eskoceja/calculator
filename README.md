@@ -1,7 +1,7 @@
-MINI PROJECTS FROM DIFFERENT SOURCES
+#MINI PROJECTS FROM DIFFERENT SOURCES
 
-calculator
+calculator:
 code along with: https://github.com/tilakjain123/Practice-Projects 
 
-pokemon-sprites
+pokemon-sprites:
 code along with Colt Steele in Web Developer Bootcamp Section 24
